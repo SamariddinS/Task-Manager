@@ -1,1 +1,1 @@
-# Welcome to GitHub repository for javascript cours!
+# Welcome to GitHub repository for javascript Course!
