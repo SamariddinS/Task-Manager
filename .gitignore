@@ -1,1 +1,8 @@
-/tz.pdf
+/node_modules
+/packages
+.log
+.lock
+.tmp
+.pdf
+Thumbs.db
+.idea
